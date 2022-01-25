@@ -15,4 +15,5 @@ This project challenged me to learn how to use Javascript and begin to use some 
 I spent a long time trouble shooting my code's logic trying to figure out why it wouldn't return the string and after many hours it turned out to be just a syntax error of mispelling my variables.  With that out of the way, it does feel like I am progressing.
 
 <b>Author</b>
+
 Andy Wang - Full-Stack Software Developer 
