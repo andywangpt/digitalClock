@@ -3,7 +3,7 @@ Simple Digital Clock App
 
 A simple clock app coded in HTML, CSS, and Javascript. 
 
-See it here.
+See it <a href=https://andywangpt.github.io/digitalClock>here</a>.
 
 <img width="1104" alt="Screen Shot 2022-01-25 at 10 14 10 AM" src="https://user-images.githubusercontent.com/95507674/151035174-9cc2d681-e9a7-41fe-a723-c9dd5d4af2cf.png">
 
